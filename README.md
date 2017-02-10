@@ -1,8 +1,9 @@
 # Start Here [![Join the chat at https://gitter.im/dwyl/chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dwyl/chat/)
 
-A quick-start guide for people that want to **D**o **W**hat **Y**ou **L**ove!
+> ***Start where you are. Use what you have. Do what you can***.
+> ~ [*Arthur Ashe*](http://en.wikipedia.org/wiki/Arthur_Ashe)
 
-==========
+A quick-start guide for people that want to **D**o **W**hat **Y**ou **L**ove!
 
 ## Table of contents
 
@@ -28,8 +29,7 @@ A quick-start guide for people that want to **D**o **W**hat **Y**ou **L**ove!
 - [**Ready to get involved?**]()
 - [**Curious about what technology we are using?**]()
 
-> ***Start where you are. Use what you have. Do what you can***.
-> ~ [*Arthur Ashe*](http://en.wikipedia.org/wiki/Arthur_Ashe)
+----
 
 
 ![dwyl-logo-wide](https://cloud.githubusercontent.com/assets/194400/8141150/f4b4c854-115a-11e5-8c13-dc96a5f1e928.png)
