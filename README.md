@@ -40,7 +40,7 @@ We have all worked somewhere we didn't **love**.
 We have all felt the frustration of using products that have flaws
 (and been unable to fix them).   
 
-**The aim of dwyl is to address both of these issues simultaneously.**
+**The aim of dwyl (pronounced "[Will](https://www.youtube.com/watch?v=0sxnonO3FXw)" but with a "D" infront of it) is to address both of these issues simultaneously.**
 
 - [**Read our manifesto**](/manifesto.md)
   - TL,DR: Our golden rule is **treat others as you would like others to treat you**
@@ -65,25 +65,27 @@ of the familiar faces contributing to our projects:
 
 ## What?
 
-**Q**: What is dwyl?  
-**A**: dwyl (pronounced "[Will](https://www.youtube.com/watch?v=0sxnonO3FXw)"
-but with a "D" infront of it) is a _community_ of people on a
-_**mission to change the world using technology**_.
+Question: What is **dwyl**?  
+Answer: **dwyl** is a community of people on a mission to change the world using technology.
 
-We are _starting_ by making the tools _we_ need to help us (and the people we care about) _get things we love **done**_.
+We are starting by **making the tools** we need to help us (and the people we care about) get things we love done.
 
-Our first App is [***Time***](https://github.com/dwyl/time) which helps people ***track any time based activity***.
+Our first App is [**Time**](https://github.com/dwyl/time) which helps people track any time based activity.
 
-And we are making ***Everything Open Source*** along the way,
-so that you *too* can **D**o **W**hat **Y**ou **L**ove!   
-We have plans to build *many* other features and we'd *love* you to join us!
+We are making **everything open source** along the way, so that you too can **do what you love**.
 
 Here are a few on the roadmap:
-+ [**Tudo**](https://github.com/dwyl/tudo) (_pronounced to-do_) helps you and your team track what you are working on
-+ **When?** syncs calendars and selectively share availability with others to discover when the best time for an activity/event is
-- Birthday/Special Event Helper [*AKA* The Card & Gift App]
 
-What question do _**you**_ want to answer?
+- [**Tudo**](https://github.com/dwyl/tudo) (pronounced "to-do")
+  - helps you and your team track what you are working on  
+- **When?**
+  - syncs calendars and selectively share availability with others to discover when the best time for an activity/event is
+- **Birthday/Special Event Helper**
+  - AKA The Card & Gift App
+
+We have plans to build many other features and we'd love you to join us!
+
+What question do **you** want to answer?
 
 
 ### Our Approach: Scratching Your *Own* Itch
