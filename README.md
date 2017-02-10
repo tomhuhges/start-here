@@ -49,16 +49,19 @@ We have all felt the frustration of using products that have flaws
 
 If you want to be part of the solution, join us: http://www.dwyl.io/
 
+----
+
 ## Who?
 
-**dwyl** is a _**rapidly expanding community**_; here are a few
+**dwyl** is a **rapidly expanding community**. Here are a few
 of the familiar faces contributing to our projects:
 
 [![dwyl-people](https://cloud.githubusercontent.com/assets/194400/9920000/97649832-5cc8-11e5-972e-bb06f2abc237.png)](https://github.com/orgs/dwyl/people)
 
-[_**Join us**_](#how) in finding a problem you want to **solve** and will
-_**love**_ working on.
+[**Join us**](#how) in finding a problem you want to solve and will
+**love** working on.
 
+----
 
 ## What?
 
