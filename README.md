@@ -2,10 +2,10 @@
 
 # Start Here [![Join the chat at https://gitter.im/dwyl/chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dwyl/chat/)
 
-> ***Start where you are. Use what you have. Do what you can***.
-> ~ [*Arthur Ashe*](http://en.wikipedia.org/wiki/Arthur_Ashe)
+> ***Start where you are. Use what you have. Do what you can.***
+> — [Arthur Ashe](http://en.wikipedia.org/wiki/Arthur_Ashe)
 
-A quick-start guide for people that want to **D**o **W**hat **Y**ou **L**ove!
+A quick-start guide for people that want to **dwyl**: Do What You Love!
 
 ## Table of contents
 
@@ -34,22 +34,20 @@ A quick-start guide for people that want to **D**o **W**hat **Y**ou **L**ove!
 ----
 
 ## Why?
-The world is not perfect.  
-We have all worked somewhere we _didn't **love**_. <br />
-We have _all_ felt the _frustration_ of using products that have flaws
-(and been unable to fix them).   
-**The aim of _dwyl_ is to address *both* of these issues _simultaneously_.**
 
-If you'd like to know more, _please **read our [manifesto](/manifesto.md)**_.  
- The short version is:
-"_**Treat others as you would like others to treat you**_" ~
-[***The Golden Rule***](/manifesto.md)
+The world is not perfect.  
+We have all worked somewhere we didn't **love**.  
+We have all felt the frustration of using products that have flaws
+(and been unable to fix them).   
+
+**The aim of dwyl is to address both of these issues simultaneously.**
+
+- [**Read our manifesto**](/manifesto.md)
+  - TL,DR: Our golden rule is **treat others as you would like others to treat you**
+- [**Watch Simon Sinek's TED talk**](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
+  - or, read his book ['Start With Why'](https://www.startwithwhy.com/)
 
 If you want to be part of the solution, join us: http://www.dwyl.io/
-
-> If you haven't read **Simon Sinek**'s book "***Start with Why***",
-we *highly recommend* taking a few minutes to watch his **Ted Talk**:
-http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action
 
 ## Who?
 
