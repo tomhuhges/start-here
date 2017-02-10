@@ -1,3 +1,5 @@
+![dwyl-logo-wide](https://cloud.githubusercontent.com/assets/194400/8141150/f4b4c854-115a-11e5-8c13-dc96a5f1e928.png)
+
 # Start Here [![Join the chat at https://gitter.im/dwyl/chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dwyl/chat/)
 
 > ***Start where you are. Use what you have. Do what you can***.
@@ -30,9 +32,6 @@ A quick-start guide for people that want to **D**o **W**hat **Y**ou **L**ove!
 - [**Curious about what technology we are using?**]()
 
 ----
-
-
-![dwyl-logo-wide](https://cloud.githubusercontent.com/assets/194400/8141150/f4b4c854-115a-11e5-8c13-dc96a5f1e928.png)
 
 ## Why?
 The world is not perfect.  
